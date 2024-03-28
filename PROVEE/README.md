@@ -1,1 +1,1 @@
-- https://huggingface.co/stabilityai/stable-cascade
+- https://github.com/TimDettmers/bitsandbytes
