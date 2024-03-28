@@ -1,1 +1,2 @@
 - https://github.com/TimDettmers/bitsandbytes
+- https://github.com/osma?tab=repositories
